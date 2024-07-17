@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e87f0221-a24d-420b-b1b3-a797416b9278" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HELP.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Luis/catalogolibros/CatalogolibrosApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Luis/catalogolibros/model/Autores.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Luis/catalogolibros/model/DatosAutores.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Luis/catalogolibros/model/DatosBusqueda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Luis/catalogolibros/model/DatosLibros.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Luis/catalogolibros/model/Libros.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Luis/catalogolibros/principal/Principal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Luis/catalogolibros/repository/AutoresRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Luis/catalogolibros/repository/LibrosRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Luis/catalogolibros/service/ConsumoApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Luis/catalogolibros/service/ConvierteDatos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Luis/catalogolibros/service/IConvierteDatos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/Luis/catalogolibros/CatalogolibrosApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/jgma/catalogolibros/CatalogolibrosApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/jgma/catalogolibros/model/Autores.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/jgma/catalogolibros/model/DatosAutores.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/jgma/catalogolibros/model/DatosBusqueda.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/jgma/catalogolibros/model/DatosLibros.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/jgma/catalogolibros/model/Libros.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/jgma/catalogolibros/principal/Principal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/jgma/catalogolibros/repository/AutoresRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/jgma/catalogolibros/repository/LibrosRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/jgma/catalogolibros/service/ConsumoApi.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/jgma/catalogolibros/service/ConvierteDatos.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/jgma/catalogolibros/service/IConvierteDatos.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="WARN_ABOUT_CRLF" value="false" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2jLjy1NJsCtWvuRTuPn1TsUncP4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "F:/Challengues/Challengue 03",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "vcs.Git",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="LiterAlura-main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="LiterAlura-main" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CatalogolibrosApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="catalogolibros" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.Luis.catalogolibros.CatalogolibrosApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.18034.62" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.18034.62" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e87f0221-a24d-420b-b1b3-a797416b9278" name="Changes" comment="" />
+      <created>1721173501736</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1721173501736</updated>
+      <workItem from="1721173502798" duration="37000" />
+      <workItem from="1721173629258" duration="131000" />
+      <workItem from="1721173814913" duration="10000" />
+      <workItem from="1721174009676" duration="52000" />
+      <workItem from="1721174098287" duration="22000" />
+      <workItem from="1721174173444" duration="91000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
